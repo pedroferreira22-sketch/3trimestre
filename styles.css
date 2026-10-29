@@ -34,6 +34,10 @@ text-align: center;
 width: 50%;
 font: 30px;
 }
+.escola.image{
+    width: 100%;
+
+}
 .sociais{
 display: flex;
 justify-content: flex-end;
