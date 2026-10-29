@@ -26,6 +26,7 @@ height: auto;
 display: flex;
 justify-content: flex-start;
 align-items: center;
+border-radius: 8px;
 }
 .titulo_site{
 padding: 50px;
