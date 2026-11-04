@@ -34,9 +34,13 @@ text-align: center;
 width: 50%;
 font: 30px;
 }
-.escola.image{
-    width: 100%;
-
+.escola.image,
+.banner1 img {
+    width:100%;
+    height:auto;
+    max-width:100%;
+    display: block;
+    margin:0;
 }
 .sociais{
 display: flex;
