@@ -42,6 +42,25 @@ font: 30px;
     display: block;
     margin:0;
 }
+.titulo-sobre{
+    font-size:45px;
+    margin-top:50px;
+    margin-bottom:20px;
+    text-align:center;
+    font-weight:bold;
+    color:black;
+
+}
+.Sobre-Mim{
+    max-width:1500px;
+    margin:auto;
+    text-align:center;
+    font-size:25px;
+    line-height:1.8;
+    color:black;
+    padding:0 20px;
+}
+
 .sociais{
 display: flex;
 justify-content: flex-end;
