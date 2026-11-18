@@ -60,6 +60,15 @@ font: 30px;
     color:black;
     padding:0 20px;
 }
+.drift-insano{
+    background-color: #830000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    
+}
 
 .sociais{
 display: flex;
